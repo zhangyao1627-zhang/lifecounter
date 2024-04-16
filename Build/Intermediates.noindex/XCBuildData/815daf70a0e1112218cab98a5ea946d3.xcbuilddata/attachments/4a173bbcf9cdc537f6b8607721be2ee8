@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/lifecounter-master.dia",
+    "emit-module-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/lifecounter-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/lifecounter-master-emit-module.dia",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/lifecounter-master.swiftdeps"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/lifecounter/AppDelegate.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/lifecounter/SceneDelegate.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/lifecounter/ViewController.swift" : {
+    "const-values" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/zhangyao1627/Documents/Code/Swift/lifecounter/Build/Intermediates.noindex/lifecounter.build/Debug-iphonesimulator/lifecounter.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  }
+}
