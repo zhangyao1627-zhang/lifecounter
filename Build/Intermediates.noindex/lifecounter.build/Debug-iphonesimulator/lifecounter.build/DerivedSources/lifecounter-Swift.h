@@ -277,6 +277,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
 @import Foundation;
 @import UIKit;
 #endif
@@ -312,6 +313,52 @@ SWIFT_CLASS("_TtC11lifecounter11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class UIScrollView;
+@class UIButton;
+@class NSString;
+@class NSBundle;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC11lifecounter17HistoryController")
+@interface HistoryController : UIViewController
+@property (nonatomic, weak) IBOutlet UIScrollView * _Null_unspecified historyScrollView;
+- (void)viewDidLoad;
+- (IBAction)ReturnButton:(UIButton * _Nonnull)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC11lifecounter11HistoryView")
+@interface HistoryView : UIView
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
+@class UIStoryboardSegue;
+
+SWIFT_CLASS("_TtC11lifecounter14MainController")
+@interface MainController : UIViewController
+@property (nonatomic, weak) IBOutlet UIScrollView * _Null_unspecified ContentScrollView;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified AddButton;
+@property (nonatomic, weak) IBOutlet UIButton * _Null_unspecified HistoryButton;
+- (void)viewDidLoad;
+- (IBAction)AddButton:(UIButton * _Nonnull)sender;
+- (IBAction)GoHistory:(UIButton * _Nonnull)sender;
+- (void)prepareForSegue:(UIStoryboardSegue * _Nonnull)segue sender:(id _Nullable)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC11lifecounter10PlayerView")
+@interface PlayerView : UIView
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)incrementScore;
+- (void)decrementScore;
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+@end
+
 @class UIWindow;
 @class UIScene;
 
@@ -332,10 +379,6 @@ SWIFT_CLASS("_TtC11lifecounter13SceneDelegate")
 
 
 @class UILabel;
-@class UIButton;
-@class NSString;
-@class NSBundle;
-@class NSCoder;
 
 SWIFT_CLASS("_TtC11lifecounter14ViewController")
 @interface ViewController : UIViewController
